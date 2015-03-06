@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+font-size: 400%;
+color: red;
+}
+h2{
+font-size: 150%;
+color: white;
+}
+body {
+    background-image: url("bing.jpg");
+}
+</style>
+</head>
+<body>
+ <h1>Welcome to TPAMAA!</h1>
+<h2><p>Connect with your friends — and other fascinating people.</p>
+<p>Get in-the-moment updates on the things that interest you.</p> 
+<p>And watch events unfold, in real time, from every angle.</p></h2>
+</body>
+</html>
