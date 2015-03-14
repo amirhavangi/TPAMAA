@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+font-size: 400%;
+color: red;
+}
+h2{
+font-size: 150%;
+color: white;
+}
+h3{
+font-size: 100%;
+color:green;
+}
+body {
+    background-image: url("bing.jpg");
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+   
+        $("#p1").css("color", "red").slideUp(500);
+$("button").click(function(){
+     $("#p1").css("color", "red").slideDown(8000);
+
+});
+    
+});
+</script>
+</head>
+<body>
+ <h1>Welcome to TPAMAA!</h1>
+<h2 id="p1"><b><br>The Best Social Network For Being Together :) <br>The Best Place For Being Global :) <br>In Few Seconds You Will Be A Member Of This Village! :| <br> JUST TRY IT! ;)</h2>
+<button>WHAT???!!!</button>
+<h3><br><br>Sign in to your account<h3>
+<form>
+username:<br>
+<input type="text" name="username1">
+<br>
+password:<br>
+<input type="password" name="password">
+<input type="submit" value="Sign in" >
+<br> 
+</form>
+</body>
+</html>
