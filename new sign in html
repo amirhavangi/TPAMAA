@@ -30,10 +30,11 @@ $("button").click(function(){
     
 });
 </script>
+
 </head>
 <body>
  <h1>Welcome to TPAMAA!</h1>
-<h2 id="p1"><b><br>The Best Social Network For Being Together :) <br>The Best Place For Being Global :) <br>In Few Seconds You Will Be A Member Of This Global Village! :| <br> JUST TRY IT! ;)</h2>
+<h2 id="p1"><b><br>The Best Social Network For Being Together :) <br>The Best Place For Being Global :) <br>In Few Seconds You Will Be A Member Of This <h2 style="color:blue">Global Village!</h2> :| <br> JUST TRY IT! ;)</h2>
 <button>WHAT???!!!</button>
 <h3><br><br>Sign in to your account<h3>
 <form>
